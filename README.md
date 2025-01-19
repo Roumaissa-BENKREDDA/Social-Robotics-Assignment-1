@@ -1,4 +1,3 @@
-# Social-Robotics-Assignment-1
 # 🌐 Social Robotics Assignment 1: DialogFlow Telegram Chatbot 🤖
 
 This project showcases a **Telegram chatbot** designed using **DialogFlow**, focusing on human-like interaction and intuitive conversational flows.
